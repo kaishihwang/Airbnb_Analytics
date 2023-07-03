@@ -17,4 +17,5 @@ The dataset of Airbnb rentals is for one quarter from June 1, 2022, to September
 ## Map Visualization
 
 To provide a spatial perspective, I utilized the leaflet package to create an interactive city map. The map displayed the median prices based on neighborhood group and room type, with color coding showing the price quartiles. Users can easily click on markers on the map for information such as the borough, room type, and pricing.
-![Uploading Picture1.png…]()
+
+![Picture1](https://github.com/kaishihwang/Airbnb_Analytics/assets/131721638/030d9fc6-db27-4230-a2ed-f3700bc5bf19)
