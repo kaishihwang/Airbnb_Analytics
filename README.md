@@ -1,4 +1,4 @@
-# Airbnb_Analytics
+# Analyzing Trends and Patterns of Airbnb Rentals in New York City
 
 Summary:
 
