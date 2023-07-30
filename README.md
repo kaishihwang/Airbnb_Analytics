@@ -14,6 +14,14 @@ Information about the dataset:
 
 The dataset of Airbnb rentals is for one quarter from June 1, 2022, to September 30, 2022. The source of the dataset is Kaggle.com. This data gets updated every quarter. It has 102,598 records and 26 columns. The data is not clean and has many issues like null values, NaN, incorrect data type, and $ sign in amount columns.
 
+## Visualization with Plotly.express
+
+Rental units of different boroughs:
+![image](https://github.com/ks-wang/ecommerce-rental-analytics/assets/131721638/0235c2b3-7a80-4565-b37e-5212f40910b6)
+
+Counts of room types:
+![image](https://github.com/ks-wang/ecommerce-rental-analytics/assets/131721638/eabe335e-23ad-4c7d-9177-6b0a292ca25e)
+
 ## Map Visualization with R
 
 To provide a spatial perspective, I utilized the leaflet package to create an interactive city map with R programming. The map displayed the median prices based on neighborhood group and room type, with color coding showing the price quartiles. Users can easily click on markers on the map for information such as the borough, room type, and pricing.
